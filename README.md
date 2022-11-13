@@ -1,7 +1,7 @@
 # HackathonProject2022
 
 ## Goals:
-Create Python script that automatically enrolls you into courses
+The theme for this year's Hackathon was Mental Health. Registration is stressful at BC. We decided to create Python script that automatically enrolls you into courses.
 
 ## setup
 pip install selenium (run this in top level folder of project)
